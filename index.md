@@ -11,6 +11,14 @@ Salesforce Developer
 <a href="olga.ru96@gmail.com">olga.ru96@gmail.com</a>
 | <a href="https://trailblazer.me/id/olyabaranova">My Trailhead account</a>
 </div>
+<div id="contactinformation">
+
++38568459388
+
+github.com/Astrante
+
+Podgorica, Montenegro
+</div>
 
 ## About
 
@@ -47,6 +55,8 @@ __Salesforce Admin__
 
 ## Experience
 ### Customertimes
+Salesforce Developer
+
 Customertimes is a cloud consulting and system integrator group working in the USA and 50+ other countries all over the world. They work with the world's largest software vendors like Salesforce, Pega, SAP as well as provide in-house developments for large and medium-sized companies.
 
 `January 2022 – Present`
