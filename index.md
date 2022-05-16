@@ -66,14 +66,9 @@ Is an American multinational company serving the combined industries of health i
 Migration from the Classic system to the new Lightning system for the company's users and their patients' data in the US. The new system contains data on patients enrolled in medical programs and their use of drugs. With the help of the system, certified ambassadors are able to provide support to patients using the specific products by providing information on them: how to take it, what to expect, how it works, collateral effects, etc. As the result, the new system enables our client to collect feedback on the products, diminish the incorrect use of them, as well as ultimately increase patients' awareness and satisfaction by the correct use of them.
 ### Responsibilities:
 
-- Communicate with the team to find the best solutions for tasks.
-- Translated business requirements to smart solutions in Salesforce.com.
+- Refactored two general modules into one, to improve performance, ease of extensibility, and good readability.
+- Wrote lwc component to search in a third-party system for doctors and create new ones in ours.
 - Designed and wrote SOQL queries for automatic nightly data extracts.
-- Worked with Visualforce pages and their controllers.
-- Created clean and reusable code.
-- Utilize best practice for code reviews, refactoring, and constant development.
-- Work in an organized manner to assure goals aren’t missed.
-- Refactoring legacy code.
 - Work with Git.
 
 `September 2021 – January 2022`
@@ -83,49 +78,29 @@ Is the leader manufacturer of solutions for infusion. It supplies medical facili
 Development and implementation of a solution based on Salesforce.com and CT Mobile for the management and work of field employees: medical, sales representatives and their management. The project uses solutions to simplify the work of representatives with doctors and pharmacists, to manage field forces. Integration with a third-party MS Dynamics system has been implemented for drawing up an omnichannel promo activity plan based on data obtained from Salesforce, setting tasks for field forces. 
 ### Responsibilities:
 
-- Discussed business requirements with the internal team and MS Dynamics team to find the best solution for integration.
-- Wrote an integration with Microsoft Dynamics, to synchronize information about more than 20 objects.
+- Wrote an integration with Microsoft Dynamics, to synchronize information about more than 20 objects using REST API.
 - Wrote server-side controller for getting and structuring information about more than 5 objects.
-- I covered my code with tests. Fixed failed test and raised the total coverage of all classes by more than 85%.
-- Created clean and reusable code.
-- Reviewed the code and helped other developers in the team find a solution.
-- Utilize best practice for code reviews, refactoring, and constant development.
+- Covered my code with tests. Fixed failed tests and increased the coverage of all classes by more than 85%.
+- Discussed business requirements with the internal team and MS Dynamics team to find the best solution for integration.
+- Acted as a lead for a team of 3 developers. Helped to find the best solutions, reviewed the code, and distributed tasks.
+- Authored over 100+ Apex Classes, 10+ Aura Lightning components, 20+ LWC
+- Wrote more than 15 modules for switchers (someone who want to switch from other stack to salesforce)
 
 `October 2019 – March 2021`
 ### Client: NDA
 Is an American multinational company serving the combined industries of health information technology and clinical research.
 ### Project: NDA
-Virtual Trials. Salesforce Implementation for Virtual Trials provides a SFDC Health Cloud-based platform for virtual clinical trials including Patient management and communication, payments, virtual video calls, regulatory processes around the Study, Patient Surveys and much more. 
+Salesforce Implementation for virtual trials provides a SFDC Health Cloud-based platform for virtual clinical trials including Patient management and communication, payments, virtual video calls, regulatory processes around the Study, Patient Surveys and much more. 
 ### Responsibilities:
-- Designed and wrote SOQL queries for automatic nightly data extracts.
-- Communicate with the team to find the best solutions for tasks.
-- Create new apex classes (trigger, custom validation, abstract classes).
-- Integrated part of a several related, yet independent, software systems into our system via SSO using JWT standard.
-- Create and edit Lightning components (Apex Controllers, HTML, CSS).
-- Create and edit LWC (Lightning Web Component).
-- Create new Custom Metadata Types.
-- Create, fix and execute unit tests.
-- Execute functional test cases.
-- Conduct meetings about the new functionality.
-- Analyze the requests from business, discuss them with BAs and translate business requirements to smart solutions in Salesforce.com.
-- Show demo to Business analysts from the client's side.
-- Expanded the functionality of the class that clones an object with its related objects.
-- As the part of translation tasks:
-- Edited the Email alerts, Classic Email templates and Visualforce components with their controllers.
-- Created and edited more than 50 Custom labels.
-- Setup process builder and flows to send emails notifications and tasks in preferred language.
-- Developed formulas in order to achieve the correct display of text in preferred language.
-- Found a solution to avoid getting the same welcome emails from multiple communities. (disabled the standard community functionality, then added a condition to the password change template so that it would change the text in different cases, and then use it on the user trigger).
-- Migrate changes from development to test to production environment using Copado.
-- Work with Git, Fork.
-- Translated business requirements to smart solutions in Salesforce.com.
-- Created clean and reusable code.
-- Utilize best practice for code reviews, refactoring, and constant development.
-- Work in an organized manner to assure goals aren’t missed.
-- Refactoring legacy code.
-- Create documentation.
-- Participated in grooming calls with BAs.
 
+- Integrated a third-party system into our system via SSO using JWT standard and REST API.
+- Show demo and conduct the meetings about developed functionality.
+- Work on a multilingual project that uses custom labels, email templates, visualforce email templates, process builder, and formula fields.
+- Found a solution to avoid getting the same welcome emails from multiple communities. (Disabled the standard community functionality, then added a condition to the password change template so that it would change the text in different cases, and then use it on the user trigger).
+- Work with Copado, Git, Fork.
+- Use Data Loader and the Data Import Wizard to manage data in Salesforce.
+- Designed a new security model using OWD settings, sharing rules, roles, profiles, custom fields, record types, page layouts and apex code.
+- Created more than 15 lightning components.
 
 <!-- ### Footer
 
